@@ -1,25 +1,21 @@
 # HATNet: Hierarchical Attention Transformer Network
 
-HATNet is a cutting-edge machine learning framework specifically developed to optimize the synthesis of organic and inorganic materials, including **molybdenum disulfide (MoS₂)**, and to estimate the **photoluminescent quantum yield (PLQY)**. By leveraging the power of the **multi-head attention (MHA) mechanism**, HATNet captures complex dependencies within feature spaces, offering a significant advancement over traditional models like XGBoost and Support Vector Machines (SVMs). This unified framework is designed for both classification and regression tasks, delivering state-of-the-art performance in material synthesis optimization.
+HATNet is a DL framework specifically developed to optimize the synthesis of organic and inorganic materials, including **molybdenum disulfide (MoS₂)**, and to estimate the **photoluminescent quantum yield (PLQY)**. By leveraging the power of the **multi-head attention (MHA) mechanism**, HATNet captures complex dependencies within feature spaces, offering a significant advancement over traditional models like XGBoost and Support Vector Machines (SVMs). This unified framework, designed for classification and regression tasks, achieved state-of-the-art performance in material synthesis optimization MoS₂ and PLQY.
 
 ## Key Highlights
 
-- **Unified Framework**: Combines classification and regression tasks using a shared attention-based encoder.
-- **State-of-the-Art Performance**: Achieves 95% classification accuracy for MoS₂ synthesis and industry-leading MSE values for CQD PLQY estimation.
+- **Unified Framework**: Combines classification and regression tasks using a shared attention-based architecture.
+- **State-of-the-Art Performance**: Achieves 95% classification accuracy for MoS₂ synthesis and lower MSE values for PLQY estimation.
 - **Automated Feature Learning**: Eliminates manual feature engineering by capturing intricate feature interactions.
-- **Broad Applicability**: Designed for energy storage materials, light-emitting devices, light-filtering materials, and beyond.
 
 ## Applications
 
 HATNet addresses critical challenges in materials science, with applications in:
-- Energy storage systems
-- Light-emitting devices
-- Advanced material synthesis optimization
-- Light-filtering materials
+- Advanced material synthesis optimization for different applications, including electronics, optical and other devices.
 
 ## Code Availability
 
-The code for HATNet will be made publicly available following the acceptance of the associated research paper. Updates regarding the release will be provided on this repository.
+**The code for HATNet will be made publicly available following the acceptance of the associated research paper. Updates regarding the release will be provided on this repository**.
 
 ## Acknowledgment
 
