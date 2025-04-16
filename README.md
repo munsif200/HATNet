@@ -20,17 +20,15 @@ HATNet addresses critical challenges in materials science, with applications in:
 ## Code Availability
 
 The code for HATNet will be made publicly available following the acceptance of the associated research paper. Updates regarding the release will be provided on this repository.
-
+---
 ## Acknowledgment
 
 This research was supported by the Nano & Material Technology Development Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT.  
 **Project Name**: Data HUB for Solid Electrolyte Materials Based on SyncroLab Data Cloud  
 **Grant Number**: RS-2024-00446825
-
+---
 ## License
 
 Upon publication, this project will be released under an open-source license, ensuring accessibility to the research and development community.
 
 ---
-
-HATNet represents a transformative approach in materials science, enabling researchers to efficiently optimize experimental synthesis while achieving unparalleled predictive performance.
