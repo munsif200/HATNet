@@ -1,0 +1,35 @@
+MODEL:
+  DEVICE: "cuda"
+  DEVICE_ID: "0" 
+  MODE: "demo"
+
+SPATIAL_TEMPORAL:
+  SPATIAL_DIM: 32
+  TEMPORAL_DIM: 32
+  HIDDEN_DIM: 64
+  NUM_LAYERS: 2
+  DROPOUT: 0.1
+
+GRAPH:
+  NODE_DIM: 32
+  EDGE_DIM: 6
+  MESSAGE_DIM: 32
+  NUM_PASSING_STEPS: 3
+
+SOLVER:
+  TYPE: "SG"  # Spatial Graph
+  EPOCHS: 10
+  BATCH_SIZE: 4
+  LR: 0.001
+  WEIGHT_DECAY: 1e-4
+  SCHEDULER: "cosine"
+
+OUTPUT:
+  LOG_DIR: "./logs"
+  CKPT_DIR: "./logs/checkpoints"
+  VIS_DIR: "./logs/visualizations"
+
+TEST:
+  CKPT_FILE_SG: ""
+  CKPT_FILE_TG: ""
+  EDGE_THRESH: 0.5

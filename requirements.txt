@@ -1,0 +1,7 @@
+torch>=1.13.0
+numpy>=1.20.1
+yacs>=0.1.8
+tqdm>=4.59.0
+loguru>=0.6.0
+matplotlib>=3.3.4
+dgl>=1.0.0
