@@ -116,7 +116,7 @@ HATNet addresses critical challenges in materials science, with applications in:
 
 This research was supported by the **Nano & Material Technology Development Program** through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT.
 
-| | |
+| Attribute | Details |
 |---|---|
 | **Project Name** | Data HUB for Solid Electrolyte Materials Based on SyncroLab Data Cloud |
 | **Grant Number** | RS-2024-00446825 |
