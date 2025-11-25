@@ -33,22 +33,6 @@ HATNet is a deep learning framework specifically developed to optimize the synth
 
 ---
 
-## Repository Structure
-
-```
-HATNet/
-├── CQDs_regression.py      # PLQY regression model training and evaluation
-├── Mos2_classification.py  # MoS₂ synthesis classification model
-├── Data/
-│   ├── CQDs/               # Carbon Quantum Dots dataset
-│   └── MOS2/               # Molybdenum Disulfide dataset
-├── Fig/
-│   └── Framework.png       # Model architecture visualization
-└── README.md
-```
-
----
-
 ## Installation
 
 ### Prerequisites
@@ -116,10 +100,6 @@ HATNet addresses critical challenges in materials science, with applications in:
 
 This research was supported by the **Nano & Material Technology Development Program** through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT.
 
-| Attribute | Details |
-|---|---|
-| **Project Name** | Data HUB for Solid Electrolyte Materials Based on SyncroLab Data Cloud |
-| **Grant Number** | RS-2024-00446825 |
 
 ---
 
@@ -131,5 +111,4 @@ This project is released under the MIT License, ensuring accessibility to the re
 
 ## Contact
 
-For questions or collaborations, please open an issue or contact the authors through the paper correspondence.
-
+For questions or collaborations, please email to munsif@sju.ac.kr.
