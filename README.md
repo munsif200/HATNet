@@ -3,7 +3,7 @@
 HATNet is a DL framework specifically developed to optimize the synthesis of organic and inorganic materials, including **molybdenum disulfide (MoS₂)**, and to estimate the **photoluminescent quantum yield (PLQY)**. By leveraging the power of the **multi-head attention (MHA) mechanism**, HATNet captures complex dependencies within feature spaces, offering a significant advancement over traditional models like XGBoost and Support Vector Machines (SVMs). This unified framework, designed for classification and regression tasks, achieved state-of-the-art performance in material synthesis optimization MoS₂ and PLQY.
 
 <p align="center">
-  <img src="Fig/Framework.png" alt="Framework" width="800">
+  <img src="Fig/Framework.png" alt="Framework">
 </p>
 ## Key Highlights
 
