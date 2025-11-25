@@ -13,10 +13,6 @@ HATNet is a DL framework specifically developed to optimize the synthesis of org
 HATNet addresses critical challenges in materials science, with applications in:
 - Advanced material synthesis optimization for different applications, including electronics, optical and other devices.
 
-## Code Availability
-
-**The code for HATNet will be made publicly available following the acceptance of the associated research paper. Updates regarding the release will be provided on this repository**.
-
 ## Acknowledgment
 
 This research was supported by the Nano & Material Technology Development Program through the National Research Foundation of Korea (NRF) funded by the Ministry of Science and ICT.  
